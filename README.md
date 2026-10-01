@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2626,40:0f3d3d,100:1a5c5c&height=210&section=header&text=Aleksa%20Ključar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20AI%2FML%20Testing%20%7C%20Playwright%20%7C%20Kubernetes&descAlignY=56&descSize=19&descColor=b0c4c4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2626,40:0f3d3d,100:1a5c5c&height=210&section=header&text=Aleksa%20Ključar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20AI%2FML%20Testing%20%7C%20Playwright&descAlignY=56&descSize=19&descColor=b0c4c4"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&height=55&lines=🤖+QA+Engineer+%7C+AI-Driven+Systems;🎭+Playwright+%7C+Selenium+%7C+TypeScript;☁️+Kubernetes+%7C+Docker+%7C+CI%2FCD;🧠+LLM+Chatbot+Testing+%7C+RAG+Validation;🔬+Building+Reliable+AI-Powered+Platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&height=55&lines=🤖+QA+Engineer+%7C+AI-Driven+Systems;🎭+Playwright+%7C+Selenium+%7C+TypeScript+%7C+Python;☁️+Kubernetes+%7C+Docker+%7C+CI%2FCD;🧠+LLM+Chatbot+Testing+%7C+RAG+Validation;" alt="Typing SVG" />
 
 <!-- Badges -->
 <p>
@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About Me
 
-QA Engineer specializing in testing AI-driven systems, LLMs, chatbots, and cloud-native applications deployed on Kubernetes. Focused on ensuring reliability, accuracy, and user experience in AI-powered enterprise platforms.
+QA Engineer specializing in test automation, API testing, and cloud-native applications, with experience testing AI-driven systems, LLMs, and chatbots. Skilled in building maintainable automated test frameworks with Playwright and TypeScript, validating APIs and backend services, and testing applications deployed on Kubernetes. Focused on delivering reliable, scalable, and high-quality enterprise software through automation and comprehensive testing strategies.
 
 - 💼 **QA Engineer** at **Kombinat** *(Jul 2025 – Present)*
 - 🎓 **Bachelor of Design** — Faculty of Economics, University of Novi Sad *(2020 – Expected 2026)*
@@ -87,7 +87,7 @@ QA Engineer specializing in testing AI-driven systems, LLMs, chatbots, and cloud
 
 | Degree | Institution | Period |
 |:---|:---|:---|
-| 🎓 Bachelor of Design | Faculty of Economics, University of Novi Sad | 2020 – Expected 2026 |
+| 🎓 Bachelor of Business Informatics | Faculty of Economics, University of Novi Sad | 2020 – Expected 2026 |
 | 📘 Business Administration | Highschool of Economics | 2016 – 2020 |
 
 ---
